@@ -1,0 +1,27 @@
+{
+  "name": "samnivesha",
+  "version": "1.0.0",
+  "description": "Samnivesha-IIT PATNA'S CIVIL FEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Samnivesha2021"
+  ],
+  "author": "Samnivesha",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "consolidate": "^0.16.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-flash": "git://github.com/RGBboy/express-flash.git",
+    "mongoose": "^5.11.9",
+    "nodemailer": "^6.4.17",
+    "react": "^17.0.1",
+    "swig": "^1.4.2"
+  }
+}
